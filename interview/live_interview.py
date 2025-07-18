@@ -156,7 +156,7 @@ username = os.getenv("LOGGED_IN_USER", "unknown")
 conn = psycopg2.connect(
     dbname='behavioural',
     user='postgres',
-    password='vaishnavi@123',
+    password='shivanirao1710',
     host='localhost',
     port='5432'
 )
