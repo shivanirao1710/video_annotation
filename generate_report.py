@@ -25,7 +25,7 @@ except Exception as e:
 # === Database config ===
 DB_NAME = "behavioural"
 DB_USER = "postgres"
-DB_PASSWORD = "shivanirao1710"
+DB_PASSWORD = "vaishnavi@123"
 DB_HOST = "localhost"
 DB_PORT = "5432"
 
